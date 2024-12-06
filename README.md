@@ -3,9 +3,7 @@
 A lightweight carousel component for Svelte focused on low runtime and minimalism.
 
 ```bash
-npm i svelte-light-carousel
-pnpm add svelte-light-carousel
-yarn add svelte-light-carousel
+npm i svelte-carousel-lite
 ```
 
 ## Usage
